@@ -18,7 +18,7 @@
                 <rect key="frame" x="0.0" y="0.0" width="346" height="134"/>
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
-                    <stackView opaque="NO" contentMode="scaleToFill" alignment="top" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="epY-RU-g8j">
+                    <stackView opaque="NO" userInteractionEnabled="NO" contentMode="scaleToFill" alignment="top" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="epY-RU-g8j">
                         <rect key="frame" x="10" y="10" width="326" height="114"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="cAI-DC-5Kk">
@@ -66,7 +66,7 @@
                 <outlet property="messageBubble" destination="cAI-DC-5Kk" id="ZkI-En-07l"/>
                 <outlet property="rightImageView" destination="Hgn-SX-mkw" id="dbu-lr-phU"/>
             </connections>
-            <point key="canvasLocation" x="40" y="-7"/>
+            <point key="canvasLocation" x="39.694656488549619" y="-7.042253521126761"/>
         </tableViewCell>
     </objects>
     <resources>
